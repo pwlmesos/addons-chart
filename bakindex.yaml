@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  argo-cd:
+  - apiVersion: v1
+    appVersion: 1.2.0
+    created: "2021-06-15T12:50:16.6282677Z"
+    description: A Helm chart for Argo-CD
+    digest: 11fc5bf71f5712fa83ef183c5160ed9ab56adc4e10f8e4927d76ab1f55284032
+    home: https://github.com/mesosphere/charts/tree/dev/stable/argo-cd
+    icon: https://raw.githubusercontent.com/argoproj/argo/master/argo.png
+    maintainers:
+    - email: gpaul@d2iq.com
+      name: gpaul
+    name: argo-cd
+    urls:
+    - https://mesosphere.github.io/charts/stable/argo-cd-0.5.4.tgz
+    version: 0.5.4
