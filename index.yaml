@@ -19,6 +19,6 @@ entries:
       url: https://github.com/krmichel
     name: aws-efs-csi-driver
     urls:
-    - https://pwlmesos.github.io/addons-chart/aws-efs-csi-driver-2.1.2.tgz
+    - https://pwlmesos.github.io/addons-chart/awsefscsiprovisioner/aws-efs-csi-driver-2.1.2.tgz
     version: 2.1.2
 generated: "2021-06-22T17:27:52.357835-06:00"
