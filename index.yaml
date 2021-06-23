@@ -6,7 +6,7 @@ entries:
     created: "2021-06-22T17:27:52.376027-06:00"
     description: A Helm chart for AWS EFS CSI Driver
     digest: 07da40248af741183fc9de947439ba5e1171bf4ec73b334a226953ce3dfc3bc8
-    home: https://github.com/kubernetes-sigs/aws-efs-csi-driver
+    #home: https://github.com/kubernetes-sigs/aws-efs-csi-driver
     keywords:
     - aws
     - efs
@@ -18,8 +18,6 @@ entries:
     - name: krmichel
       url: https://github.com/krmichel
     name: aws-efs-csi-driver
-    sources:
-    - https://github.com/kubernetes-sigs/aws-efs-csi-driver
     urls:
     - https://pwlmesos.github.io/addons-chart/aws-efs-csi-driver-2.1.2.tgz
     version: 2.1.2
